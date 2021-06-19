@@ -87,6 +87,7 @@ function check_input($data) {
                             <a class="small" href="<?php echo WEB_URL; ?>package/user/forgot-password.php">Forgot Password?</a>
                             <div>
                                 <input class="btn btn-primary btn-block" type="submit" name="submit" value="Sign In" >
+                                <input type="button" value="hello">
                             </div>
                         </div>
                     </form>
